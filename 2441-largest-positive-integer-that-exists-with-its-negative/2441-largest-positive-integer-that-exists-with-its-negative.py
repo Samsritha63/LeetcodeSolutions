@@ -1,13 +1,9 @@
 class Solution:
     def findMaxK(self, nums: List[int]) -> int:
-        max_num=-1
-        nums=sorted(nums)
-        
-        for i in range(len(nums)):
-            if nums[i]>0:
-                break
-            if (nums[i]*(-1)) in nums:
-                max_num=max(max_num,abs(nums[i]))
+        max_num = -1
+        nums_set = set(nums)
+        for i in nums:
+            if i > 0:
+                if i > max_num and -i in nums_set:
+                    max_num = i
         return max_num
-            
-        
