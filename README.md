@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [3379-transformed-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3637-trionic-array-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
