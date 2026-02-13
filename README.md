@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
