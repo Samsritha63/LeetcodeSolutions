@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
