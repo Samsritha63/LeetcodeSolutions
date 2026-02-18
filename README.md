@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
