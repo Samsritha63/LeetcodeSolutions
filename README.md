@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0338-counting-bits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
