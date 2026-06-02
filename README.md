@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
