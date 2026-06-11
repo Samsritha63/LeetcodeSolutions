@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
