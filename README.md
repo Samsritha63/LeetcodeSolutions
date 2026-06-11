@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [3379-transformed-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3637-trionic-array-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
