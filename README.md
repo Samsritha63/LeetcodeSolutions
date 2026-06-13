@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3838-weighted-word-mapping](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [3838-weighted-word-mapping](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
