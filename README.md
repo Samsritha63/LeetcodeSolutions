@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0268-missing-number](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
