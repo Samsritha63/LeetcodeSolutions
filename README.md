@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
