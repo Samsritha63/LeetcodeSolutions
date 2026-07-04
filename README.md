@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0217-contains-duplicate](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0207-course-schedule/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
