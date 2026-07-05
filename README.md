@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [3379-transformed-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/3637-trionic-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Samsritha63/LeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 | Problem Name | Difficulty |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Samsritha63/LeetcodeSolutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
