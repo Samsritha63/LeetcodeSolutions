@@ -9,13 +9,11 @@ class Solution:
         res = []
         q = collections.deque()
         q.append(root)
-
         while q:
             qLen = len(q)
             level = []
-            for i in range(qLen):
+            for _ in range(qLen):
                 curr = q.popleft()
-            
                 if curr:
                     level.append(curr.val)
                     q.append(curr.left)
